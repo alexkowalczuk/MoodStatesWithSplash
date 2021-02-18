@@ -1,11 +1,11 @@
-## Simple Shapes for P5.js
+## Mood States With Splash Screen and Instructions
 #### by Alex Kowalczuk
-Feb 2nd, 2021
+Feb 17, 2021
 
 
 ### Overview
-10 different shapes in p5.js
+Five different moods created by me with splash screen and instruction screen.
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw(). Also added functions and tried to do some animations.
+Modify the sketch.js setup() and draw(). Also added functions, and different colors.
